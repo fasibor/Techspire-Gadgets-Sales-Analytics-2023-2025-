@@ -1,7 +1,8 @@
 # Techspire-Gadgets-Sales-Analytics-2023-2025-
 The objective of this project is to analyze mobile and laptop sales data to identify key sales trends, evaluate product and brand performance across various regions, and understand customer purchasing behavior. 
 
-![dashboard 8](https://github.com/user-attachments/assets/99238b85-d16f-4b8e-b96c-6ed845bed1dc)
+
+![Techspire Gadgets](https://github.com/user-attachments/assets/daecac2f-8e16-42ba-a80f-2d9e60a6ffa5)
 
 
 
